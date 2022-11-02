@@ -1,9 +1,7 @@
 # Calendar with Pure JavaScript and HTML
 
 The program uses `Date()` function to build a simple calendar with Pure JavaScript and HTML. 
-Here's the final implementation of it - http://iamnitinpatel.com/projects/calendar
 
-![alt html javascript calendar](https://cdn-images-1.medium.com/max/800/1*7nkXuZNIB7UUdSFKdIZHVQ.png)
 
 **Explanation-** When the program is started, the function `showCalendar()` is with arguments `currentMonth` and `currentYear`. 
 This function populates the table with dates at the correct places. 
